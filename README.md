@@ -10,7 +10,6 @@ Especialista em data center em Cuiabá (MT). Há 10 anos opero infraestrutura cr
 | [TokenBar](https://github.com/n3tf4c3/tokenbar) | Cota das assinaturas de IA na bandeja do Windows | TypeScript |
 | [NetLane](https://github.com/n3tf4c3/netlane) | Diagnóstico de rede com IA para Windows | Rust |
 | [ByteHalt](https://github.com/n3tf4c3/bytehalt) | Bloqueio automático de unidades BitLocker | Rust |
-| [Duraverso](https://duraverso.vercel.app) | Catálogo de experiências de uso de eletrodomésticos | Next.js |
 | [Afetilu](https://afetilu.vercel.app) | Registro de rotina para famílias de pessoas autistas | TypeScript |
 | [Trukenza](https://github.com/n3tf4c3/trukenza) | Truco multiplayer em mesa 3D | TypeScript |
 
